@@ -12,7 +12,7 @@
 <a href="https://twitter.com/@mahammedguliyev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mahammedguliyev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/muhammed-guliyev-877772346" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/muhammed-guliyev-877772346" height="30" width="40" /></a>
 <a href="https://kaggle.com/muhammed9001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="muhammed9001" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.linkedin.com/mahammad guliyev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.linkedin.com/mahammad guliyev/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/share/1znus9fnan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/1znus9fnan/" height="30" width="40" /></a>
 <a href="https://instagram.com/@muhammeddquliyev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@muhammeddquliyev" height="30" width="40" /></a>
 </p>
 
